@@ -1,5 +1,5 @@
-<h2> Hi, I'm Carlos Marín! 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+
+<p align="center">I'm currently a Platzi student. I love  I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
@@ -8,7 +8,7 @@
 </p>
 
 
-
+<h2> Hi, I'm Carlos Marín! 👋🤓</h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
