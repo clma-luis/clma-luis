@@ -1,7 +1,4 @@
-<h2> Hi, I'm Carlos Marín! 😎🖐🤓 ></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2> Hi, I'm Carlos Marín! 😎🖐🤓</h2>
 
 [![Linkedin: Carlos](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/carlos-luis-mar%C3%ADn-644069152/)
 [![GitHub Carlos](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/clma-luis)
