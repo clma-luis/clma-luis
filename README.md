@@ -1,4 +1,6 @@
-https://media.giphy.com/media/W5V3uR0qSzeIfJRXIW/giphy.gif?cid=790b7611b4d3a0a93db3f1a8146cb2ac621c44680bed6298&rid=giphy.gif&ct=g
+
+<img src="https://media.giphy.com/media/W5V3uR0qSzeIfJRXIW/giphy.gif?cid=790b7611b4d3a0a93db3f1a8146cb2ac621c44680bed6298&rid=giphy.gif&ct=g" width="50">
+
 
 <h2> Hi, I'm Carlos Marín! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
