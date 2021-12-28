@@ -12,7 +12,7 @@ const Carlos = {
   Studies: ["Platzi", "Miriadax", "Udemy", "Pluralsight"],
   AsAPerson: {
                         IlikeMusic: ["Rock", "Blues", "Jazz", "Lofi", "Others"],
-                        Lenguaes: ["Spanish", "English"],
+                        Lenguages: ["Spanish", "English"],
                         IamFrom: "Venezuela",
                         ILive: "Peru",
                         Others: "Music Teacher"
