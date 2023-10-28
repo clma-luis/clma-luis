@@ -1,6 +1,6 @@
 <h2> Hi, I'm Carlos Luis! 😎👋🤓</h2>
 
-[![Linkedin: Carlos](https://img.shields.io/badge/-CarlosMarin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/carlos-luis-mar%C3%ADn-644069152/)
+[![Linkedin: Carlos](https://img.shields.io/badge/-CarlosMarin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clma/)](https://www.linkedin.com/in/carlos-luis-mar%C3%ADn-644069152/)
 [![GitHub Carlos](https://img.shields.io/github/followers/Carlos?label=follow&style=social)](https://github.com/clma-luis)
 
 👋😁😎 A little more about me...  
